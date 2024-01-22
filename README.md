@@ -10,4 +10,4 @@ Microsoft Threat Modeling Tool Template containing AWS components and services
 ![AWS Threat Modeling Example](https://raw.githubusercontent.com/rusakovichma/aws-threat-modeling-tool-template/master/aws-threatmodeling-example.png)
 
 ## Update :
-22/01/2024 - Stencils and Threat Types added : IoT - IoT Core - Route53
+22/01/2024 - Stencils and Threat Types added : IoT Device - IoT Core - Route53 - Step Function
